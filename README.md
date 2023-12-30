@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Labjot Singh
-- 👀 I’m interested in information technology
-- 🌱 I’m currently learning Automation with python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- I am currently pursuing BSc. Computer Science at De Montfort University, UK.
+- Interested in Web Development. 
+- My LinkedIn profile : www.linkedin.com/in/labjot-singh-690a8b240
+  
+
 
 <!---
 LovejotSandhu/LovejotSandhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
